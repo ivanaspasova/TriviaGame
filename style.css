@@ -1,0 +1,10 @@
+body {
+    background-color: rgba(245, 245, 140, 0.678);
+    margin-left: 20px;
+    background-image: url("https://image.freepik.com/free-vector/purple-background-with-holographic-geometric-shapes_23-2147647383.jpg");
+    background-repeat: repeat-y;
+}
+
+h1 {
+    color: blue;
+}
